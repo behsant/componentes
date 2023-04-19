@@ -1,0 +1,21 @@
+.d-flex{
+    display: flex;
+    gap: 20px;
+}
+.red{
+    padding: 15px;
+    background-color: red;
+    color: rgb(243, 197, 14);
+   
+}
+.teste{
+    padding: 15px;
+    background-color: green;
+    color: rgb(4, 210, 210);
+}
+.blue{
+    padding: 15px;
+    background-color: blue;
+    color: aliceblue;
+}
+
